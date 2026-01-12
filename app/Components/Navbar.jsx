@@ -1,4 +1,3 @@
-import React from "react";
 import Menu from "./Menu.";
 import Link from "next/link";
 import CartIcon from "./CartIcon";

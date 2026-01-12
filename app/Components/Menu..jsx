@@ -1,6 +1,6 @@
 "use client";
 import Image from "next/image";
-import React, { useState } from "react";
+import { useState } from "react";
 import menuImg from "../Public/open.png";
 import closeImg from "../Public/close.png";
 import Link from "next/link";
